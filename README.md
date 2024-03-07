@@ -1,8 +1,8 @@
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <div align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=FF000000&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Prerak!&#128512" alt="Typing SVG" /></a></div>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prerak1310&label=Profile%20views&color=0e75b6&style=flat" alt="prerak1310" /> </p>
-
 <hr>
 - 🔭 I’m currently working on my Portfolio<br>
 - 🌱 I’m currently learning DSA, Sklearn, Tensorflow, AI, ML<br>
@@ -23,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prerak1310&show_icons=true&locale=en" alt="prerak1310" /></p><br>
 <hr>
+<h2 align = "center">&#x1f4f1;------SOCIALS------&#x1f4f1; </h2><br>
 <div align="center"> 
   <a href="mailto:preraksangwan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,17 +40,17 @@
   </a>
     <a href="https://www.kaggle.com/codeprac" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
-  </a>
+  </a><br><hr>
    
 </div>
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>🐍------CONTRIBUTIONS------🐍</h2>
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/><hr><br/>
 </div>
 
 
