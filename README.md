@@ -12,7 +12,7 @@
 <hr>
 <h3 align = "center"> &#129302;------TECH STACK------&#129302; </h3>
 <div align = "center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,netlify,linux,c,cpp,py,js,mysql,sklearn,tensorflow,nodejs,express,firebase,react,django,flask,flutter&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,netlify,linux,c,cpp,py,js,mysql,sklearn,tensorflow,nodejs,express,firebase,react,django,flask,anaconda&perline=7" />
   </a></div><br>
 
 
@@ -33,6 +33,14 @@
   <a href="https://github.com/Prerak1310" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="https://leetcode.com/Prerak1310/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
+  </a>
+  </a>
+    <a href="https://www.kaggle.com/codeprac" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
+  </a>
+   
 </div>
 
 
