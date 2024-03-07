@@ -1,4 +1,4 @@
-
+<div align="center"><img width=100%  alt="loading animation" src="https://64.media.tumblr.com/e34617ef35020777c5dd1f70bed19fbb/tumblr_ohj9x3vfoC1veydt5o1_500.gif"></div><br>
 <div align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=FF000000&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Prerak!&#128512" alt="Typing SVG" /></a></div>
 
 
