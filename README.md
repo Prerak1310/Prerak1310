@@ -16,6 +16,7 @@ A Computer Science undergraduate passionate about building real-world AI tools, 
 - 🤖 Building AI-powered apps using LangChain, Hugging Face models, and RAG pipelines
 - 🍳 Yummora: A LLaMA 3–based recipe platform built for a national hackathon
 - ⚡ React + Tailwind projects including fashion showcase sites
+- ✨ TheFashionLoom: A modern, responsive fashion showcase website using React and Tailwind
 - 📚 Learning efficient deployment of local models like Mistral and LLaMA
 ---
 
