@@ -9,17 +9,14 @@
 ---
 
 ### 👋 Hi there, I'm Prerak  
-A Computer Science undergraduate passionate about building real-world AI tools, efficient automation systems, and clean UI/UX. I love experimenting with desktop apps, local LLMs, and full-stack web projects.
-
+A Computer Science undergraduate passionate about building real-world AI tools, efficient automation systems, and clean UI/UX. I enjoy working with local LLMs, full-stack web projects, and creating seamless user experiences.
 ---
 
 ### 🔧 What I’m Working On
-- 🧠 AI-powered desktop assistant (Python + PySide6 + Ollama)
-- 🛠 Admin tool for product uploads with auto-converted image URLs
+- 🤖 Building AI-powered apps using LangChain, Hugging Face models, and RAG pipelines
+- 🍳 Yummora: A LLaMA 3–based recipe platform built for a national hackathon
 - ⚡ React + Tailwind projects including fashion showcase sites
 - 📚 Learning efficient deployment of local models like Mistral and LLaMA
-- 🎯 Active participant in hackathons and open-source contributions
-
 ---
 
 <h3 align="center"> 🧰 Tech Stack </h3>
