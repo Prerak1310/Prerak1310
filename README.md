@@ -1,56 +1,69 @@
-<div align="center"><img width=100%  alt="loading animation" src="./samplegif.gif"></div><br>
-<!-- <div align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=FF000000&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Prerak!&#128512" alt="Typing SVG" /></a></div>
- -->
+<div align="center">
+  <img width="100%" alt="Banner" src="./samplegif.gif">
+</div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=prerak1310&label=Profile%20views&color=0e75b6&style=flat" alt="prerak1310" /> </p>
-<hr>
-- 🔭 I’m currently working on my Portfolio<br>
-- 🌱 I’m currently learning DSA, Sklearn, Tensorflow, AI, ML<br>
-- 👯 I’m looking to collaborate on anything that helps me gain experience:)<br>
-- 😄 Pronouns: he/him<br>
-- ⚡ Fun fact: The first computer covered 1,800 square feet!!!!<br>
-<hr>
-<h3 align = "center"> &#129302;------TECH STACK------&#129302; </h3>
-<div align = "center"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,netlify,linux,c,cpp,py,js,mysql,sklearn,tensorflow,nodejs,express,firebase,react,django,flask,anaconda&perline=7" />
-  </a></div><br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=prerak1310&label=Profile%20views&color=0e75b6&style=flat" alt="prerak1310" />
+</p>
 
+---
 
-<hr>
+### 👋 Hi there, I'm Prerak  
+A Computer Science undergraduate passionate about building real-world AI tools, efficient automation systems, and clean UI/UX. I love experimenting with desktop apps, local LLMs, and full-stack web projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerak1310&show_icons=true&locale=en&layout=compact" alt="prerak1310" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prerak1310&show_icons=true&locale=en" alt="prerak1310" /></p><br>
-<hr>
-<h2 align = "center">&#x1f4f1;------SOCIALS------&#x1f4f1; </h2><br>
-<div align="center"> 
+### 🔧 What I’m Working On
+- 🧠 AI-powered desktop assistant (Python + PySide6 + Ollama)
+- 🛠 Admin tool for product uploads with auto-converted image URLs
+- ⚡ React + Tailwind projects including fashion showcase sites
+- 📚 Learning efficient deployment of local models like Mistral and LLaMA
+- 🎯 Active participant in hackathons and open-source contributions
+
+---
+
+<h3 align="center"> 🧰 Tech Stack </h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,py,bash,mysql,react,mongodb,tailwind,express,flask,git,github,linux,vscode,vim,postman,docker,vercel" />
+
+  </a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-2C2C2C?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<h3 align="center"> 📊 GitHub Stats </h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prerak1310&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prerak1310&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">📱 Let's Connect</h2>
+<p align="center">
   <a href="mailto:preraksangwan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://in.linkedin.com/in/prerak-singh-sangwan-703b26261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Prerak1310" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-    <a href="https://leetcode.com/Prerak1310/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
+  <a href="https://leetcode.com/Prerak1310/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
+  <a href="https://www.kaggle.com/codeprac" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
-    <a href="https://www.kaggle.com/codeprac" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
-  </a><br><hr>
-   
-</div>
-
-
-<div align="center">
-  <h2>🐍------CONTRIBUTIONS------🐍</h2>
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><hr><br/>
-</div>
-
-
-
+</p>
